@@ -5,58 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6741d7c1-e0bd-47f9-a71f-ed19fbc26696" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/P01StacksAndQueuesLab/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/P01StacksAndQueuesLab/P03DecimalToBinary.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/P01StacksAndQueuesLab/P04MatchingBrackets.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/P01StacksAndQueuesLab/P05PrinterQueue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/P01StacksAndQueuesLab/P06HotPotato.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/P01StacksAndQueuesLab/P07MathPotato.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/P01StacksAndQueuesLab/P08BrowserHistoryUpgrade.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/P01StacksAndQueuesLab/P1BrowserHistory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/P01StacksAndQueuesLab/P2SimpleCalculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/P02StacksAndQueuesExercises/P01ReverseNumbersWithStack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/P02StacksAndQueuesExercises/P02BasicStackOperations.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/P02StacksAndQueuesExercises/P03MaximumElement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/P02StacksAndQueuesExercises/P04BasicQueueOperations.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/P02StacksAndQueuesExercises/P05BalancedParentheses.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/P02StacksAndQueuesExercises/P06RecursiveFibonacci.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/P02StacksAndQueuesExercises/P07SimpleTextEditor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/P02StacksAndQueuesExercises/P08InfixToPostfix.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/P02StacksAndQueuesExercises/P09PoisonousPlants.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/P02StacksAndQueuesExercises/P10Robotics.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/P03MultidimensionalArraysLab/P01CompareMatrices.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/P03MultidimensionalArraysLab/P02PositionsOf.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/P03MultidimensionalArraysLab/P03IntersectionOfTwoMatrices.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/P03MultidimensionalArraysLab/P04SumMatrixElements.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/P03MultidimensionalArraysLab/P05MaximumSumOf2x2Sub.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/P03MultidimensionalArraysLab/P06PrintDiagonalsOfSquareMatrix.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/P03MultidimensionalArraysLab/P07FindTheRealQueen.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/P03MultidimensionalArraysLab/P08WrongMeasurements.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/P04MultidimensionalArraysExercises/P01FillTheMatrix.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/P04MultidimensionalArraysExercises/P02MatrixOfPalindromes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/P04MultidimensionalArraysExercises/P03DiagonalDifference.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/P04MultidimensionalArraysExercises/P04MaximalSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/P04MultidimensionalArraysExercises/P05MatrixShuffling.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/P04MultidimensionalArraysExercises/P06StringMatrixRotation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/P04MultidimensionalArraysExercises/P07Crossfire.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/P04MultidimensionalArraysExercises/P08TheHeiGanDance.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/P04MultidimensionalArraysExercises/P09ParkingSystem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/P04MultidimensionalArraysExercises/P10RadioactiveMutantVampireBunnies.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/P04MultidimensionalArraysExercises/P11ReverseMatrixDiagonals.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/P04MultidimensionalArraysExercises/P12TheMatrix.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/P05SetsAndMapsAdvancedLab/P01ParkingLot.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/P05SetsAndMapsAdvancedLab/P02SoftUniParty.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/P05SetsAndMapsAdvancedLab/P03WarNumberGame.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/P05SetsAndMapsAdvancedLab/P04CountRealNumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/P05SetsAndMapsAdvancedLab/P05AverageStudentsGrades.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/P05SetsAndMapsAdvancedLab/P06ProductShop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/P05SetsAndMapsAdvancedLab/P07CitiesByContinentAndCountry.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/P05SetsAndMapsAdvancedLab/P08AcademyGraduation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/P05SetsAndMapsAdvancedLab/P09Largest3Numbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -90,13 +39,13 @@
     "ASKED_ADD_EXTERNAL_FILES": "true",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/GitHub/Java-Advanced",
+    "last_opened_file_path": "C:/Users/Bobi/Desktop/Pb-oct-2022/05 Data Structures Advanced - Exam1",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.0"
   }
 }]]></component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.P1BrowserHistory">
     <configuration name="P05PrinterQueue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="JavaAdvanced.P01StacksAndQueuesLab.P05PrinterQueue" />
       <module name="Java-Advanced" />
@@ -110,8 +59,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="P1BrowserHistory" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JavaAdvanced.P01StacksAndQueuesLab.P1BrowserHistory" />
+      <module name="Java-Advanced" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="JavaAdvanced.P01StacksAndQueuesLab.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.P1BrowserHistory" />
         <item itemvalue="Application.P05PrinterQueue" />
       </list>
     </recent_temporary>
